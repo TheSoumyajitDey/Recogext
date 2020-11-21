@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104757382119",
+    "firebase_url": "https://app-development-faq.firebaseio.com",
+    "project_id": "app-development-faq",
+    "storage_bucket": "app-development-faq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104757382119:android:b42fd732302ca7c8628b42",
+        "android_client_info": {
+          "package_name": "com.example.recogext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104757382119-np0p2rlha8pokhqacdpbu13l8gk81k6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYGTsmW6meGBGQANQ4bYYJEA8zBpMwmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104757382119-k0rvu9iq96du41u4n7mm3ukn42f31eb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
