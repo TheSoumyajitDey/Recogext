@@ -2,11 +2,6 @@
 
 - Android Project using JAVA
 
-# Screenshots
-- ![] Screenshots
-
-
-
 # Technologies Used are:
 - JAVA 
 - Android Framework
@@ -30,6 +25,14 @@
 - Click on Run 
 - Connect Your Phone (Should be in Developer Mode)
 - Enjoy the App
+
+# Screenshots
+- ![](Screenshots/1.jpeg)
+- ![](Screenshots/2.jpeg)
+- ![](Screenshots/3.jpeg)
+- ![](Screenshots/4.jpeg)
+- ![](Screenshots/5.jpeg)
+- ![](Screenshots/6.jpeg)
 
 ## Dont Forget to Leave a Star! 
 
