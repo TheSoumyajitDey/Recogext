@@ -10,9 +10,10 @@
 - Google Vision API 
 
 # App Feature
-- Responsive anyscreen
-- Highly styled and maintaning same theme as the logo
-- Sign in with - Google(don't have google cloud account) and Facebook(done)
+- Point Any Image 
+- Get Text From Image
+- Small Sized App
+- Copy Text Derived From Image
 
 # Prerequisite for the system
 - System should have "Android Studio" already installed to Edit
